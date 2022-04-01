@@ -18,7 +18,7 @@
 
 ## What is Disctopia?
 
-Disctopia is an open source Python Discord Bot that works as a backdoor that you can control from a Discord server. It uses the **Discord API** to communicate between the agent and the Discord server.
+Disctopia is an source Python Discord Bot that works as a backdoor that you can control from a Discord server. It uses the **Discord API** to communicate between the agent and the Discord server.
 
 ## How does it work?
 
